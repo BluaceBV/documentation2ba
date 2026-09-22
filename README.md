@@ -5,6 +5,7 @@ Deze handleiding beschrijft hoe je de 2BA Integration app kunt gebruiken om te z
 
 ### [Installatie en registratie](topics/installation-registration.md)
 * [Instellingen](topics/installation-registration.md#instellingen)
+* [Product activeren (autorisatie)](topics/installation-registration.md#product-activeren-autorisatie)
 * [Eenheden vertaling](topics/installation-registration.md#eenheden-vertaling)
 * [Leveranciers](topics/installation-registration.md#leveranciers)
 * [Artikelsjablonen](topics/installation-registration.md#artikelsjablonen)
@@ -13,6 +14,5 @@ Deze handleiding beschrijft hoe je de 2BA Integration app kunt gebruiken om te z
 ### [Zoekaanvragen](topics/search-requests.md)
 
 ### [Automatische update](topics/automatic-update.md)
-
 
 ### [Koppel 2BA artikel](topics/link-2ba-item.md)

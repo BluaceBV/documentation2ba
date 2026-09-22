@@ -6,6 +6,8 @@ De 2BA app maakt gebruik van de webservices van 2BA om te zoeken in de 2BA datab
 
 ![Registratiefunctie](../images/general/registration-function.png)
 
+*De registratie/autorisatie bij deze service verloopt sinds versie 1.28.0.0 via de Business Central activeringswizard "Product activeren", zie [Product activeren (autorisatie)](installation-registration.md#product-activeren-autorisatie).*
+
 In de 2BA database kun je producten vinden. Voor ieder product zijn er zogenaamde handelsartikelen. De handelsartikelen zijn een vastlegging per verpakking en per leverancier wat besteld kan worden tegen welke prijs.
 
 ![Producten](../images/general/products.png)
