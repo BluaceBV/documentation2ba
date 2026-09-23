@@ -3,12 +3,12 @@ Deze handleiding beschrijft hoe je de 2BA Integration app kunt gebruiken om te z
 
 ## Installatie en registratie
 
-**Bijgewerkt voor app-versie 1.28.0.0:** de autorisatiegegevens (Client-id, Client secret, Gebruikersnaam, Wachtwoord) staan niet langer op de pagina 2BA-instellingen. Deze worden nu ingesteld via een aparte activeringswizard, zie de nieuwe paragraaf [Product activeren (autorisatie)](#product-activeren-autorisatie) hieronder. Ook is de manier waarop leveranciers worden meegenomen in de 2BA zoekactie gewijzigd, zie [Leveranciers](#leveranciers).
-
 ### Instellingen
 Alvorens de 2BA app gebruikt kan worden moeten er een aantal instellingen gedaan worden. Daarvoor ga je naar de 2BA instellingen:
 
 ![2BA Setup](../images/installation-registration/2ba-setup.png)
+
+*Let op: bovenstaande afbeelding is verouderd. De groep **Autorisatie** (Login functie, Client-id, Client secret, Gebruikersnaam, Wachtwoord) bestaat niet meer op deze pagina; zie [Product activeren (autorisatie)](#product-activeren-autorisatie). Het veld **API URL** staat tegenwoordig in de groep Algemeen. Onder aan de pagina 2BA-instellingen is bovendien een overzicht van de 2BA leveranciers toegevoegd, zie [Leveranciers](#leveranciers).*
 
 * **SearchC zoeklimiet:** Het aantal producten dat maximaal opgehaald wordt bij een zoekactie (maximaal 1000, standaard 1000)
 * **Bewaartermijn aanvraag:** Tot hoeveel tijd terug moeten zoekaanvragen bewaard blijven (-30D betekent tot 30 dagen terug) (standaard ingesteld op -30D)

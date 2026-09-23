@@ -14,7 +14,7 @@ De betekenis van de melding is als volgt:
 * **Geen product gevonden:** Het artikel heeft geen GTIN en er is op basis van de kruisverwijzingen (artikelreferenties) geen enkel product gevonden in 2BA. 
 * **Product met product-id … is niet gevonden:** Het artikel heeft bestaan, maar is nu geen product meer in 2BA. Je moet opnieuw koppelen met een ander product.
 * **Geen passende handelsartikelen gevonden:** Er is wel een product gevonden, maar geen van de bijbehorende handelsartikelen kwam overeen met een of meerdere artikelreferenties (leverancier + leveranciersartikelnr.).
-* **Geen handelsartikel gevonden met product-id …:** Er is een product gevonden in 2BA, maar er bestaat geen handelsartikel (eventueel bij de op het artikel ingevulde leverancier) voor dit product. probeer opnieuw te koppelen.
+* **Geen handelsartikel gevonden met product-id …:** Er is een product gevonden in 2BA, maar er bestaat geen handelsartikel (eventueel bij de op het artikel ingevulde leverancier) voor dit product. Probeer opnieuw te koppelen.
 * **Aantal in eenheid moet gelijk zijn aan…:** Er is een koppeling gevonden maar deze kan niet gemaakt worden omdat het aantal in de Inkoopeenheid afwijkt van het aantal in de gebruikseenheden van het gevonden handelsartikel.
 
 *Heeft het artikel al een GTIN ingevuld, dan zoekt de koppelactie eerst rechtstreeks op die GTIN in plaats van op de kruisverwijzingen (artikelreferenties).*

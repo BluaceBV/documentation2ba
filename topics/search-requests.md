@@ -69,7 +69,7 @@ Verkoopprijzen (indien prijs/winst berekenen staat ingesteld op Prijs=kosten+win
 ![2BA artikel](../images/search-requests/2ba-item.png)
 
 Met deze gegevens is een koppeling gelegd tussen het artikel in Business Central en het Product in 2BA. Dit wordt ook gebruikt bij de automatische update. 
-Op deze pagina kun je de koppeling ook ongedaan maken door het 2BA artikel weg te gooien. Tevens worden dan de vanuit 2BA aangemaakte artikelreferenties en de vanuit 2BA aangemaakte leverancier-artikelnummers (inkoopcatalogus) naar de handelsartikelen weggegooid. Alle andere gegevens blijven bestaan.
+Op deze pagina kun je de koppeling ook ongedaan maken door het 2BA artikel weg te gooien. Tevens worden dan de vanuit 2BA aangemaakte artikelreferenties en de vanuit 2BA aangemaakte leverancier-artikelnummers (artikelreferenties) naar de handelsartikelen weggegooid. Alle andere gegevens blijven bestaan.
 
 Koppelingen:
 
