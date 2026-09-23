@@ -8,8 +8,6 @@ Alvorens de 2BA app gebruikt kan worden moeten er een aantal instellingen gedaan
 
 ![2BA Setup](../images/installation-registration/2ba-setup.png)
 
-*Let op: bovenstaande afbeelding is verouderd. De groep **Autorisatie** (Login functie, Client-id, Client secret, Gebruikersnaam, Wachtwoord) bestaat niet meer op deze pagina; zie [Product activeren (autorisatie)](#product-activeren-autorisatie). Het veld **API URL** staat tegenwoordig in de groep Algemeen. Onder aan de pagina 2BA-instellingen is bovendien een overzicht van de 2BA leveranciers toegevoegd, zie [Leveranciers](#leveranciers).*
-
 * **SearchC zoeklimiet:** Het aantal producten dat maximaal opgehaald wordt bij een zoekactie (maximaal 1000, standaard 1000)
 * **Bewaartermijn aanvraag:** Tot hoeveel tijd terug moeten zoekaanvragen bewaard blijven (-30D betekent tot 30 dagen terug) (standaard ingesteld op -30D)
 * **Artikelen bijwerken per:** Het aantal artikelen dat door de automatische bijwerk taak per keer wordt bijgewerkt te beginnen bij de oudste.
@@ -19,10 +17,8 @@ Alvorens de 2BA app gebruikt kan worden moeten er een aantal instellingen gedaan
 * **Artikelomschrijving gebruiken:** Geeft aan welke omschrijving leidend is: de bestaande omschrijving uit het artikel of de omschrijving uit 2BA.
 * **API URL:** Link naar de 2BA webservice. Hier moet staan: https://api.2ba.nl/1/json/
 
-De vijf bovenstaande instellingen zijn verplaatst, zie hieronder.
-
 ### Product activeren (autorisatie)
-De autorisatiegegevens voor de 2BA webservice worden niet langer op de pagina 2BA-instellingen ingevoerd, maar via de standaard Business Central activerings- en instellingenfunctie:
+De autorisatiegegevens voor de 2BA webservice voer je in via de standaard Business Central activerings- en instellingenfunctie:
 
 * Bij het eerste gebruik verschijnt in de **Assisted Setup** (Aan de slag) de taak **Product activeren**. Deze wordt automatisch aangeboden zolang de 2BA-licentie nog niet actief/geldig is.
 * Daarna is dezelfde wizard op elk moment opnieuw te openen via **Handmatige installatie** (Manual Setup), categorie **2BA Integration**.
